@@ -9,6 +9,7 @@ var connection = require("../config/connection.js");
 // * `updateOne()`
 
 //using from cat activity
+//modifying mySQL code using burger.js
 
 function printQuestionMarks(num) {
   var arr = [];
